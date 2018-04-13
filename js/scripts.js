@@ -1,53 +1,57 @@
 /*jshint esversion: 6 */
 
 const about = `
-  <h2>
-    Front End Web Developer with skills in UX/UI Design and interest in
-    Full Stack Programming
-  </h2>
+  <div class="content">
+    <h2>
+      Full Stack Web Developer with skills in Graphic/UX/UI Design
+    </h2>
 
-  <h3>Who I am</h3>
-  <p>
-    I’m a kind, curious and creative person who always keeps learning new
-    things to develop both personally and professionally.
-  </p>
+    <h3>Who I am</h3>
+    <p>
+      I’m a kind, curious, creative and hard working person who always keeps
+      learning new things to develop both personally and professionally.
+    </p>
 
-  <h3>What I know</h3>
-  <p>
-    I have an associate degree in Web Programming, a Front End Developer
-    techdegree at Team Treehouse and am working on a Full Stack JavaScript
-    techdegree. I want to build beautiful and functional web applications.
-  </p>
-  <p>
-    My background is within graphic design and I’ve also had responsibility
-    for marketing coordination and web development. This is helpful since I
-    have skills in marketing, design, and programming.
-  </p>
-  <p>
-    For UI/UX design I work with Adobe programs like Illustrator, Photoshop
-    and Experience Design.
-  </p>
-  <p>
-    For web development I work with HTML5, CSS3, and JavaScript to build modern,
-    responsive and performance optimized web sites and applications. I'm also
-    familiar with PHP, Java and SQL.
-  </p>
-  <p>
-    I’m a native Swedish speaker and fluent in English.
-  </p>
+    <h3>What I know</h3>
+    <p>
+      I have a Front End Developer techdegree at Team Treehouse, and am working on
+      a Full Stack JavaScript techdegree. I am also soon done with my associate
+      degree in Web Programming.
+    </p>
+    <p>
+      My background is within graphic design and I’ve also had responsibility
+      for marketing coordination, social media, and web development. This is
+      helpful since I have skills in marketing, design, and programming.
+    </p>
+    <p>
+      For design I work with Adobe programs like Illustrator for vector graphics,
+      Photoshop for image editing, InDesign for layout, and XD for UI/UX mockups
+      and prototypes.
+    </p>
+    <p>
+      For web development I work with HTML5, CSS3, SQL and JavaScript to build modern,
+      responsive and performance optimized web sites and applications. I'm also
+      familiar with PHP, Java and C#. I am willing to learn new tools and teqhniques
+      whenever it's needed.
+    </p>
+    <p>
+      I’m a native Swedish speaker and fluent in English.
+    </p>
 
-  <h3>What I’m looking for</h3>
-  <p>
-    I am looking for a company who wants a long term collaboration. I am very
-    flexible according to location, but preferably it’s a remote friendly job.
-    I’m open for an employment or a freelance solution.
-  </p>
+    <h3>What I’m looking for</h3>
+    <p>
+      I am looking for a company where I can have fun with my colleagues while
+      creating great online experiences and developing as a professional.
+      I am quite flexible according to location, but preferably it’s a more or
+      less remote friendly job. I’m open for an employment or a freelance solution.
+    </p>
 
-  <h3>What I do offline</h3>
-  <p>
-    When I’m not by the computer I like to spend my time traveling, scuba diving,
-    horse riding, hiking, and meet up with inspiring and kind people.
-  </p>`;
+    <h3>What I do offline</h3>
+    <p>
+      When I’m not by the computer I like to spend my time traveling the world,
+      scuba dive, ride horses, hike, and meet up with inspiring and kind people.
+    </p>
+  </div>`;
 const projects = [
     {
       "name"        : "Web App Dashboard",
@@ -195,23 +199,25 @@ const projects = [
     }
 ];
 const contact = `
-  <h2>Contact me</h2>
-  <p>
-    Feel free to reach out to me. I'm almost always available in the digital world.
-    And if you wanna meet up IRL for a coffee or something I'm currently
-    living in Hallstahammar in Sweden.
-  </p>
-  <p><strong>Email</strong></br>
-    info@carolineforslund.se
-  </p>
-  <p>
-    <strong>Phone</strong></br>
-    +46 70 33 66 301
-  </p>
-  <p>
-    <strong>Skype</strong></br>
-    carro.forslund
-  </p>`;
+  <div class="content">
+    <h2>Contact me</h2>
+    <p>
+      Feel free to reach out to me. I'm always available in the digital world.
+      And if you wanna meet up IRL for a coffee or something I'm currently
+      living in Hallstahammar, Sweden. Or I can simply come to you.
+    </p>
+    <p><strong>Email</strong></br>
+      info@carolineforslund.se
+    </p>
+    <p>
+      <strong>Phone</strong></br>
+      +46 70 33 66 301
+    </p>
+    <p>
+      <strong>Skype</strong></br>
+      carro.forslund
+    </p>
+  </div>`;
 
 const aboutLink = document.getElementById('nav-about');
 const portfolioLink = document.getElementById('nav-portfolio');

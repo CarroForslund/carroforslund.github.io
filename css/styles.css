@@ -104,6 +104,11 @@ main {
   flex: 1;
 }
 
+.content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 .filter {
   cursor: pointer;
   display: inline-block;
