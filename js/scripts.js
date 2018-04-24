@@ -29,10 +29,10 @@ const about = `
       and prototypes.
     </p>
     <p>
-      For web development I work with HTML5, CSS3, SQL and JavaScript to build modern,
+      For web development I work with HTML5, CSS3, JavaScript and WordPress to build modern,
       responsive and performance optimized web sites and applications. I'm also
       familiar with PHP, Java and C#. I am willing to learn new tools and teqhniques
-      whenever it's needed.
+      whenever needed.
     </p>
     <p>
       I’m a native Swedish speaker and fluent in English.
@@ -42,8 +42,9 @@ const about = `
     <p>
       I am looking for a company where I can have fun with my colleagues while
       creating great online experiences and developing as a professional.
-      I am quite flexible according to location, but preferably it’s a more or
-      less remote friendly job. I’m open for an employment or a freelance solution.
+      I am quite flexible according to location. Preferably the business is located
+      in the south East of England or is a more or less remote friendly job.
+      I’m open for employment or a freelance solution.
     </p>
 
     <h3>What I do offline</h3>
