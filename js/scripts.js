@@ -42,9 +42,10 @@ const about = `
     <p>
       I am looking for a company where I can have fun with my colleagues while
       creating great online experiences and developing as a professional.
-      I am quite flexible according to location. Preferably the business is located
-      in the south East of England or is a more or less remote friendly job.
-      I’m open for employment or a freelance solution.
+    </p>
+    <p>
+      Preferably the business is located in the south East of England or is
+      more or less remote friendly. I’m open for employment or a freelance solution.
     </p>
 
     <h3>What I do offline</h3>
