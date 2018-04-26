@@ -134,6 +134,10 @@ main {
   margin: .5em 0;
 }
 
+.project-image:hover {
+  cursor: pointer;
+}
+
 footer {
   background-color: #e0d8d1;
   width: 100%;
