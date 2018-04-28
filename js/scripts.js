@@ -14,14 +14,10 @@ const about = `
 
     <h3>What I know</h3>
     <p>
-      I have a Front End Developer techdegree at Team Treehouse, and am working on
-      a Full Stack JavaScript techdegree. I am also soon done with my associate
-      degree in Web Programming.
-    </p>
-    <p>
-      My background is within graphic design and I’ve also had responsibility
-      for marketing coordination, social media, and web development. This is
-      helpful since I have skills in marketing, design, and programming.
+      I have been working with Graphic Design since 2010. I have a Front End
+      Developer techdegree at Team Treehouse, and am working on a Full Stack
+      JavaScript techdegree. I am also soon done with my associate degree in
+      Web Programming. I also have experience in marketing.
     </p>
     <p>
       For design I work with Adobe programs like Illustrator for vector graphics,
@@ -31,7 +27,7 @@ const about = `
     <p>
       For web development I work with HTML5, CSS3, JavaScript and WordPress to build modern,
       responsive and performance optimized web sites and applications. I'm also
-      familiar with PHP, Java and C#. I am willing to learn new tools and teqhniques
+      familiar with PHP, Java and C#. I am willing to learn new tools and techniques
       whenever needed.
     </p>
     <p>
