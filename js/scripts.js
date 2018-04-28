@@ -3,20 +3,20 @@
 const about = `
   <div class="content">
     <h2>
-      Full Stack Web Developer with skills in Graphic/UX/UI Design
+      Designer & Developer
     </h2>
 
-    <h3>Who I am</h3>
+    <h3>Personality</h3>
     <p>
       I’m a kind, curious, creative and hard working person who always keeps
       learning new things to develop both personally and professionally.
     </p>
 
-    <h3>What I know</h3>
+    <h3>Knowledge</h3>
     <p>
       I have been working with Graphic Design since 2010. I have a Front End
       Developer techdegree at Team Treehouse, and am working on a Full Stack
-      JavaScript techdegree. I am also soon done with my associate degree in
+      JavaScript techdegree. I am very soon done with my associate degree in
       Web Programming. I also have experience in marketing.
     </p>
     <p>
@@ -33,8 +33,12 @@ const about = `
     <p>
       I’m a native Swedish speaker and fluent in English.
     </p>
-
-    <h3>What I’m looking for</h3>
+    <h3>Hobbies</h3>
+    <p>
+      When I’m not by the computer I like to spend my time traveling the world,
+      scuba dive, ride horses, hike, and meet up with inspiring and kind people.
+    </p>
+    <h3>Where at</h3>
     <p>
       I am looking for a company where I can have fun with my colleagues while
       creating great online experiences and developing as a professional.
@@ -42,12 +46,6 @@ const about = `
     <p>
       Preferably the business is located in the south East of England or is
       more or less remote friendly. I’m open for employment or a freelance solution.
-    </p>
-
-    <h3>What I do offline</h3>
-    <p>
-      When I’m not by the computer I like to spend my time traveling the world,
-      scuba dive, ride horses, hike, and meet up with inspiring and kind people.
     </p>
   </div>`;
 const projects = [
