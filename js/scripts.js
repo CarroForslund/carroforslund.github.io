@@ -268,6 +268,10 @@ function loadContent(clickedLink){
     projectsTitle.innerHTML = "Projects";
     main.appendChild(projectsTitle);
 
+    const projectsInfo = document.createElement('p');
+    projectsInfo.innerHTML = "Click on the images to see project details";
+    main.appendChild(projectsInfo);
+
     const filterSection = document.createElement('div');
     filterSection.className = 'filter-section';
     main.appendChild(filterSection);
