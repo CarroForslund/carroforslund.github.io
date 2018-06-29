@@ -382,6 +382,11 @@ function loadContent(clickedLink){
         projectImage.className = "project-image";
         projectCard.appendChild(projectImage);
 
+        const imageOverlay = document.createElement('div');
+        imageOverlay.className = "middle";
+        imageOverlay.innerHTML = "See Project Details"
+        projectCard.appendChild(imageOverlay);
+
         const skills = document.createElement('div');
         skills.className = 'skills';
         projectCard.appendChild(skills);
